@@ -302,9 +302,9 @@ GNU General Public License v3.0
 
 * This software is provided for educational use only! The author will not be held responsible for any illegal activity by you. By using this software, you agree to these terms.
 
-## This Is Made By Void Syntax And Shadow Using And Publishing without any permision cause strikes!
+## This Is Made By Void Syntax And Darinda Using And Publishing without any permision cause strikes!
 
-#### Thanks to Original Author of the Tools used in hackingtoolkit
+#### Thanks to Original Author of the Tools Is Void Syntax And Darinda used in hackingtoolkit
 
 <img src ="https://img.shields.io/badge/Important-notice-red" />
 <h4>Please Don't Use for illegal Activity</h4>
